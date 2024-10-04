@@ -16,5 +16,5 @@ void main()
     {
         printf("Students are not eligible.");
     }
-    return;
+    return ;
 }
